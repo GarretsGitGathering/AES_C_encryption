@@ -1,4 +1,4 @@
- # AES_C_encryption 
+ # AES_encryption_in_C
  
  While doing research about ransomware attacks, in an attempt to further understand how ransomware encrypts files I created a simple C program that serves as an example of how ransware could hypothetically encrypt files. I decided to utilize AES encryption and favored C over a simpler C++ program because I wanted the full experience of working with encryption in memory. 
 
